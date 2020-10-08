@@ -7,7 +7,8 @@ A new Flutter application.
 This project is a simple localization application using EZ Localization Library.
 
 source for library :
-- [Ez Localization](https://pub.dev/packages/easy_localization)
+- [easy Localization](https://pub.dev/packages/easy_localization)
+- [flutter_modular](https://pub.dev/packages/flutter_modular)
 
 Sample of apps:
 coming soon
