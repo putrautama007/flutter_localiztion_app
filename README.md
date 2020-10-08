@@ -9,6 +9,3 @@ This project is a simple localization application using EZ Localization Library.
 source for library :
 - [easy Localization](https://pub.dev/packages/easy_localization)
 - [flutter_modular](https://pub.dev/packages/flutter_modular)
-
-Sample of apps:
-coming soon
