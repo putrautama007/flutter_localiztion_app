@@ -1,0 +1,13 @@
+{
+  "home": {
+    "title": "Flutter Localization App",
+    "homeTitle": "Halaman Beranda Aplikasi Flutter Localization",
+    "youHavePushed": "kamu sudah menekan tombol sebanyak",
+    "increment": "Penambahan"
+  },
+  "settings": {
+    "changeLanguage" : "Ganti Bahasa",
+    "english": "Inggris",
+    "indonesia" : "Indonesia"
+  }
+}

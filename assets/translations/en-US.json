@@ -1,0 +1,13 @@
+{
+  "home": {
+    "title": "Flutter Localization App",
+    "homeTitle": "Flutter Localization App Home Page",
+    "youHavePushed": "You have pushed the button this many times:",
+    "increment": "Increment"
+  },
+  "settings": {
+    "changeLanguage" : "Change Language",
+    "english": "English",
+    "indonesia" : "Indonesia"
+  }
+}
